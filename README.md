@@ -1,6 +1,6 @@
 # 🚀 Celista 2K26 – Symposium Website
 
-Official website for **Celista 2K26**,  
+demo website or base layout for **Celista 2K26**,  
 a National Level Technical Symposium conducted by the  
 **Department of Artificial Intelligence & Data Science**.
 
